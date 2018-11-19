@@ -1,6 +1,6 @@
-# IMPORTANT: This template is deprecated
+# dorarep/starter-template
 
-Please use [create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app) to scaffold your Nuxt applications instead!
+Nuxt.js template for dorarep.
 
 ## Starter
 
@@ -17,7 +17,7 @@ Make sure to have `node 8.0+` and `npm 5.0+` installed
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init nuxt-community/starter-template my-project  
+$ vue init dorarep/starter-template my-project  
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
